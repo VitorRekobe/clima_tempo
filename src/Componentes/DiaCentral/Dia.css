@@ -14,5 +14,8 @@
     .temperatura-dia {
         font-size: 6vh;
         padding: 10%;
+        height: 20vh;
+        margin-bottom: 5%;
+        margin-top: 5%;
     }
 }
