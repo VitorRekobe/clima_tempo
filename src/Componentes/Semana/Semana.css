@@ -1,0 +1,87 @@
+.diariamente {
+    padding: 0 10% 0 10%;
+    width: 100%;
+    color: white;
+    font-size: 3.5vh;
+}
+
+.temperatura-semana {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    column-gap: 5%;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    margin-top: 1vh;
+    padding: 2%;
+    border-radius: 20px;
+    height: 25vh;
+    margin-bottom: 2%;
+    background-color: #3e6bd37c;
+}
+
+.diariamente hr {
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.temperatura-semana p {
+    font-size: 3.5vh;
+}
+
+.temperatura-semana h1 {
+    font-size: 6vh;
+}
+
+.temperatura-semana h3 {
+    font-size: 5vh;
+}
+
+@media (max-width:900px) {
+    .temperatura-semana p {
+        font-size: 3vh;
+    }
+
+    .temperatura-semana h1 {
+        font-size: 5vh;
+    }
+
+    .temperatura-semana h3 {
+        font-size: 4vh;
+    }
+
+    .diariamente {
+        font-size: 4vh;
+    }
+}
+
+@media(max-width:680px) {
+    .temperatura-semana {
+        overflow-x: auto;
+        grid-template-columns: repeat(5, minmax(125px, auto));
+        column-gap: 6%;
+    }
+
+    .diariamente {
+        font-size: 15px;
+    }
+}
+
+@media(min-height:680px) {
+    .temperatura-semana {
+        overflow-x: auto;
+        grid-template-columns: repeat(5, minmax(145px, auto));
+        column-gap: 6%;
+    }
+
+    .temperatura-semana p {
+        font-size: 2vh;
+    }
+
+    .temperatura-semana h1 {
+        font-size: 4vh;
+    }
+
+    .temperatura-semana h3 {
+        font-size: 3vh;
+    }
+}

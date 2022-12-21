@@ -1,0 +1,17 @@
+.temperatura-dia {
+    height: 45vh;
+    font-size: 8vh;
+    display: flex;
+    align-items: center;
+    color: white;
+    border-radius: 20px;
+    padding: 5%;
+    margin: auto;
+    background-color: #3e6bd37c;
+}
+
+@media (max-width:680px) {
+    .temperatura-dia {
+        font-size: 6vh;
+    }
+}
