@@ -71,6 +71,9 @@
         overflow-x: auto;
         grid-template-columns: repeat(5, minmax(145px, auto));
         column-gap: 6%;
+        height: 20vh;
+        margin-bottom: 5%;
+        margin-top: 5%;
     }
 
     .temperatura-semana p {
