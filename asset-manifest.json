@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Bclima_tempo%7D/static/css/main.3bd75711.css",
+    "main.js": "/%7Bclima_tempo%7D/static/js/main.71a665ac.js",
+    "static/media/1005900.jpg": "/%7Bclima_tempo%7D/static/media/1005900.f4e9ef69717210745bbb.jpg",
+    "static/media/ceu.jpg": "/%7Bclima_tempo%7D/static/media/ceu.e302584995babde57411.jpg",
+    "index.html": "/%7Bclima_tempo%7D/index.html",
+    "main.3bd75711.css.map": "/%7Bclima_tempo%7D/static/css/main.3bd75711.css.map",
+    "main.71a665ac.js.map": "/%7Bclima_tempo%7D/static/js/main.71a665ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd75711.css",
+    "static/js/main.71a665ac.js"
+  ]
+}
