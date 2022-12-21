@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clima_tempo/static/css/main.eea375e8.css",
+    "main.css": "/clima_tempo/static/css/main.f7427998.css",
     "main.js": "/clima_tempo/static/js/main.524126c7.js",
     "static/media/1005900.jpg": "/clima_tempo/static/media/1005900.f4e9ef69717210745bbb.jpg",
     "static/media/ceu.jpg": "/clima_tempo/static/media/ceu.e302584995babde57411.jpg",
     "index.html": "/clima_tempo/index.html",
-    "main.eea375e8.css.map": "/clima_tempo/static/css/main.eea375e8.css.map",
+    "main.f7427998.css.map": "/clima_tempo/static/css/main.f7427998.css.map",
     "main.524126c7.js.map": "/clima_tempo/static/js/main.524126c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.eea375e8.css",
+    "static/css/main.f7427998.css",
     "static/js/main.524126c7.js"
   ]
 }
