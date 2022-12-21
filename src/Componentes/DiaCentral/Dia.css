@@ -13,5 +13,6 @@
 @media (max-width:680px) {
     .temperatura-dia {
         font-size: 6vh;
+        padding: 5%;
     }
 }
